@@ -4,7 +4,15 @@ Small collection of emojis that I crafted overtime, that I think might be intere
 
 ### Emoji list
 
+<img src=american_rocket.png width=32 height=32 alt=american_rocket.png title=american_rocket />
+<img src=american_rocket_padded.png width=32 height=32 alt=american_rocket_padded.png title=american_rocket_padded />
+<img src=australian_rocket.png width=32 height=32 alt=australian_rocket.png title=australian_rocket />
+<img src=australian_rocket_landed.png width=32 height=32 alt=australian_rocket_landed.png title=australian_rocket_landed />
+<img src=australian_rocket_landing.png width=32 height=32 alt=australian_rocket_landing.png title=australian_rocket_landing />
+<img src=canadian_rocket.png width=32 height=32 alt=canadian_rocket.png title=canadian_rocket />
+<img src=canadian_rocket_padded.png width=32 height=32 alt=canadian_rocket_padded.png title=canadian_rocket_padded />
 <img src=czech-rocket.png width=32 height=32 alt=czech-rocket.png title=czech-rocket />
+<img src=emojigeddon.png width=32 height=32 alt=emojigeddon.png title=emojigeddon />
 <img src=finish-rocket.png width=32 height=32 alt=finish-rocket.png title=finish-rocket />
 <img src=french-rocket-landed.png width=32 height=32 alt=french-rocket-landed.png title=french-rocket-landed />
 <img src=french-rocket.png width=32 height=32 alt=french-rocket.png title=french-rocket />
